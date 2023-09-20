@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit
 
 class YugenMangas : Madara(
     "YugenMangas",
-    "https://yugenmangas.com.br",
+    "https://yugenmangas.net.br",
     "pt-BR",
     SimpleDateFormat("MMMMM dd, yyyy", Locale("pt", "BR")),
 ) {
